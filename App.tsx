@@ -12,6 +12,7 @@ function App(): JSX.Element {
 
   return (
     <>
+    {/* Hello how are */}
       <View style={{padding: 100}}>
         <Button title="Invite" onPress={() => fun()} />
       </View>
